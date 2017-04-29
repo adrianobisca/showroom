@@ -1,5 +1,15 @@
 # AbeuniProject
 
+This project aims to be a place where i can share with Abeuni's members some ideas.
+
+Get to know a bit more about Abeuni: http://www.abeuni.org.br
+
+
+
+Just like any other angular-cli project this one comes with a toolset that is listed below.
+
+## Info from the the angular-cli builder 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
